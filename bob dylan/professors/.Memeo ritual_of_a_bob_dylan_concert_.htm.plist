@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:11Z</date>
+		<key>actualSize</key>
+		<integer>601</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:11Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>3825B83B-173B-400F-9242-2C6E2A2211D8</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:48:50Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/professors/ritual_of_a_bob_dylan_concert_.htm</string>
+		<key>originalSize</key>
+		<integer>601</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>88E080E2-705D-447B-ACFE-EAF3E6EAA036</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

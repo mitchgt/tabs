@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:10Z</date>
+		<key>actualSize</key>
+		<integer>2838</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:05Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>66D22BC3-658B-4CE3-8DA7-D60EA62AB56C</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:49:27Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/24_shotoflove/property_of_jesus.htm</string>
+		<key>originalSize</key>
+		<integer>2838</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>11A8B138-A372-4A1B-9254-D9A953B6F5A4</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

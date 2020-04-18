@@ -1,0 +1,122 @@
+
+Posted - April 21 2003 :  1:37:14 PM      
+ Greetings! New to the board and thought I'd post this.
+
+The intro is a chimey, Byrds type alternate string rifff based on open D. I play it on the B & E srings.
+
+E--F#-F#E---EG---GE
+B---DD-----DD---DD-- X2 (listen to get the exact timing)
+
+The bass comes in w/ the guitars next:
+
+A/B/A (single notes on the A string)
+
+ The guitar continues playing a D chord with a walking bass like this: D (C# bass)/D(B bass)/D(C#bass)/Bm...and your'e in
+
+STUMBLING THROUGH THE DARK
+Bm----- A-----G--------- D
+You're so in love little girl
+Bm---A------G-----------D
+So much in love little girl
+Em------- A-------------------Em
+Running around in circles, why?
+Em----------------A 
+You know it's a crime
+Bm--A-------G--------------D
+No less no more than a rose
+Bm-- A------G--------------D 
+No less no more than a rose
+Em-----A
+Try to attach a meaning
+Em-----------------------A 
+to words that you've heard
+G---------------------------Bm 
+Stumbling through the dark
+G--------------------------D 
+Seems I'm stumbling through the dark
+G---------------------------D (C#/B/C# bass)
+Everybody's stumbling through the dark
+
+
+The rest of the song follows the same pattern. The break is played over the verse structure & chorus. This is the correct key. Thoughts/Questions?
+
+Troy
+
+ 
+
+Alert Moderator 
+
+
+aerix  
+ Starting Member 
+
+
+ USA 
+ 2 Posts
+Posted - June 13 2003 :  10:40:13 PM       
+ Thanks for the tips on playing this song. After trying it out, I have a few thoughts.
+
+ I think the opening riff is a bit higher up, and I've added the baseline too. Below are the chord shapes I'm using for this (I'd put this into TAB if I thought I could get it right):
+
+ xx0235 (Dsus2)
+ x4x235 (Dsus2/C#)
+ x2x235 (Dsus2/B)
+ x0x225 (A)
+
+Hit the base notes (D, C#, B & A) with nice emphasis, then strum the higher strings. For the last two chords, I'm actually barring the second fret and avoiding the D-string in my strum; easier way to do it -- if you follow me.
+
+In the section that starts "Running in circles," I'm playing the Em with an added G high up, then that same A with the high A:
+
+ 022003 (Em)
+ x02225 (A)
+
+Also, you can walk that high G down while strumming the Em chord (G - F# - E). I'm not sure is this is how it's being done on the CD, but it sounds good.
+
+HTH
+
+
+Eric | Oak Park, IL 
+
+Alert Moderator  
+
+Strammer 
+Starting Member 
+
+
+ USA 
+ 2 Posts
+Posted - June 24 2003 :  8:54:41 PM       
+ Sorry for screwing up the last post. I'm still not sure if I figured out how to post on this message board, but here goes...
+
+Thanks for the great posts. I'm trying to work out the arpeggiated jangly guitar parts on the electric version of "Stumbling Through the Dark" Has anyone worked any of it out?
+
+Here's the tab I worked out for the intro. Can anyone help with the rest?
+
+Intro (let all notes ring) repeat X3
+E------------------5-----------------5--------------5--------------------B------7---------------5-----------------8--------------5-------5--------G----------7--7------------7--7-------------7--7-----------7------7-----D------------------------------------------------------------------------A------------------------------------------------------------------------E----------------------------------------------------------------------
+
+(I hope this works. It didn't come out right the first time. Apologies if it is still screwed up)
+
+Mark
+Neenah, WI
+
+
+Alert Moderator  
+
+MHill  
+ Starting Member 
+
+
+ USA 
+ 2 Posts
+Posted - December 28 2003 :  05:23:47 AM       
+ I play this one with a capo on the 2nd fret. That way, the walkdown on the intro is very easy. I use these chord forms:
+C Gsus/B Am7 Gsus
+-3- -3- -3- -3-
+-1- -1- -1- -1-
+-0- -0- -0- -0-
+-2- -0- -2- -0-
+-3- -2- -0- -x-
+-x- -x- -x- -3-
+
+

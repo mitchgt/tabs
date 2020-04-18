@@ -1,0 +1,213 @@
+:::::::::::::::::::
+Heavy Metal Drummer
+:::::::::::::::::::
+
+I'm not super sure about the Em, but it works. The D/C is simply a D chord (or you can play Dsus2 to save your pinky from breaking off) with a C in the bass on the 5th string. 
+
+D                      D/C 
+I sincerely miss those heavy metal bands 
+Em                     A 
+I used to go see on the landing in the summer 
+D
+She fell in love with the drummer 
+D/C 
+She fell in love with the drummer 
+Em                A 
+She fell in love 
+
+
+Shiny shiny pants and bleached blonde hair 
+A double kick drum by the river in the summer 
+She fell in love with the drummer 
+Another and another 
+She fell in love 
+
+
+G             A              D             D/C 
+I miss the innocence I've known 
+G                    A               D 
+Playing KISS covers beautiful and stoned 
+
+
+D/C Em A 
+
+
+She lifted up her shirt at the battle of the bands 
+He twirled his sticks, she helped him to his van 
+She fell in love with the drummer 
+She fell in love with the drummer 
+She fell in love 
+
+
+I miss the innocence I've known 
+Playing KISS covers beautiful and stoned 
+
+
+-----
+ive seen jeff/wilco play this one live 
+capo on five w/ 12 string acoustic 
+since i dont have a 12 string 
+i play it on a six 
+anyway 
+the chords listed in relation to capo on fifth fret 
+actual chords in ( ) 
+
+A (D)  E (A)  G (C)  D (G)verses 
+
+A (D)  E (A)  G (C) pre-chorus 
+
+D (G)  E (A)  A (D) chorus 
+
+fun to play along with the record 
+
+-----
+This song has been bugging me for the last year or so.  Finally decided to scrutinize the solo Lounge Ax 1/00 performance by Jeff Tweedy.  Turns out what he plays on that is almost identical to the background guitar on the YHF track.  The only exception is the use of power chords under the verse, but its basically the same as the intro.  Either way, for an album track that has lush arrangements, it sounds pretty good as a solo piece too. 
+
+Tricky little song, especially in the middle of every verse couplet where the guitar stays on G (C sound), but his vocal melody goes in a direction that makes you think you're hearing another chord altogether.  Skippy was right about the 12 string, but you can pull off a great version on a sixer. 
+
+
+Capo V  (all chords relative) 
+
+Intro/Verse:  A   G(VII)  G   E 
+
+(i.e.)1st Verse: 
+
+A5                            G5 
+Oh I sincerely miss those heavy metal bands 
+
+(G5)                           E5 
+I used to go see on the landing in the summer 
+
+A5                                             G5 
+She fell in love with the drummer she fell in love with the drummer 
+
+(G5)                  E5 
+She fell in love... 
+
+etc.... 
+
+Chorus:  (Michael Pidgeon was on the mark: 
+
+
+D             E                    A        A   Asus4 
+I miss the innocence I've known 
+
+D                   E                    A     
+(back to intro chords) 
+Playing Kiss covers beautiful and stoned 
+
+And so forth. 
+
+Chords used:  (relative to capo) 
+
+A:         	X02220 
+G(VII):  	3X0007 (Could be a G11 or Gsus4.) 
+G:         	3X0033 
+E:          022100 
+
+A5:       	X02XXX 
+G5:       	35XXXX 
+E5:        	02XXXX 
+
+D:         	XX0232 
+Asus4:   	X0223X 
+
+Hope it works.  If it doesn't, feel free to correct it. 
+
+(Crap!  I took a preview, and the chords aren't lined up as they should be.  Ah well.  Just edit it with Word, you probably know the rhythm anyways.  Or just look at it through the forum edit.  Looks proper there.) 
+
+
+Topic author: smoovd 
+Replied on: October 07 2003  8:52:19 PM 
+Message: 
+
+My take on this song... 
+
+The first posting seemed pretty much right, but that Em seemed a little wrong.  Not wrong, but not perfectly right.   I think that a straight open C works better. 
+
+If you listen, the 2nd and 3rd chord have the same base note, which is a C (5th string, 3rd fret).  Em just doesn't sound quite right because it takes that base note down a step. 
+
+Try it out, Claus's tab with a C instead of an Em.  Pretty easy, if not wildly different from what Tweedy plays. 
+
+I like this version a little better than the capo'd power chord version, it sounds a little fuller, so if you're playing by yourself it seems a bit better. 
+
+Just my opinion!  Probably way off..... 
+
+dg 
+
+-----
+here's the song as tabbed by the dude on viachicago.org..... 
+ive played this song other ways 
+this sound the best to me... 
+
+Heavy Metal Drummer 
+
+Capo on 5th fret, standard tuning. 
+
+Chords listed in relation to capo: 
+
+A 	 	x02220 
+Em/G 	32200x 
+G 		320003 or 320033 
+E 	 	022100 
+D 		x00232 
+Dbm/Fb 	xx2120 
+
+A                         Em/G 
+Oh I sincerely miss those heavy metal bands 
+G                         E 
+We used to go see on the landing in the summer 
+A
+She fell in love with the drummer 
+Em/G 
+She fell in love with the drummer 
+G                         E 
+She fell in love 
+
+A                         Em/G 
+Shiny shiny pants and bleached blonde hair 
+G                         E 
+A double kick drum by the river in the summer 
+A                                   Em/G 
+She fell in love with the drummer, another then another 
+G                         E 
+She fell in love. 
+
+Chorus: 
+D          E                A       Dbm/Fb 
+I miss the innocence I've known 
+D                   E               A 
+Playing Kiss covers beautiful and stoned 
+
+Here's the lead guitar on the chorus: 
+
+I miss the innocence I've   known 
+| - Capo 
+E  |---2-0-------|------2--0---|-------0-----|---------0---| 
+B  |-3------3----|---0---------|---2-3-------|-----2-3-----| 
+G  |-2-----------|-1-----------|-2-----------|---1---------| 
+D  |-0-----------|-2-----------|-2-----------|-2-----------| 
+A  |-0-----------|-2-----------|-0-----------|-------------| 
+E  |-------------|-------------|-------------|-------------| 
+
+playing Kiss covers beautiful & stoned 
+E  |---2-0-------|-------------|-0*-----------|--------------| 
+B  |-3------3----|-0-0--2--0---|-2*-----------|-0*-----------| 
+G  |-2-----------|-1-----------|-2*-----------|-0*-----------| 
+D  |-0-----------|-2-----------|-2*-----------|-2*-----------| 
+A  |-0-----------|-2-----------|-0*-----------|-2*-----------| 
+E  |-------------|-------------|--------------|-3*-----------| 
+* - rapid strum 
+
+This lead varies, on the live version I hear: 
+
+E  |---2-0-------|------0------| 
+B  |-3------3----|---0-----0---| 
+G  |-2-----------|-1-----------| 
+D  |-0-----------|-2-----------| 
+A  |-0-----------|-2-----------| 
+E  |-------------|-------------| 
+
+for the first two bars. 
+
+Should be all you need to play the rest of the song. 

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:10Z</date>
+		<key>actualSize</key>
+		<integer>2047</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:07Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>C30EBDF4-BC25-4EA8-9848-5719FCA65921</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:45:24Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/34_bootleg/series_of_dreams.htm</string>
+		<key>originalSize</key>
+		<integer>2047</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>B6D79D0C-6DBF-403D-89FE-3D64466E47A6</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

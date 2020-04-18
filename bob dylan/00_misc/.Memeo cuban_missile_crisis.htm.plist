@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:07Z</date>
+		<key>actualSize</key>
+		<integer>1937</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:15Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:41:54Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>F4ADC5F3-724F-42D6-BF33-29B21839C428</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:47:42Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/00_misc/cuban_missile_crisis.htm</string>
+		<key>originalSize</key>
+		<integer>1937</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>27B5613B-E4FE-4198-B9E5-0F1F12981062</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

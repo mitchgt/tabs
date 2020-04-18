@@ -1,0 +1,96 @@
+
+"Pot Of Gold" by B. Henneman
+As played by the Bottle Rockets from the album "The Brooklyn Side"
+(1994)
+Transcribed by Dave Shapiro (daves@cyber-fx.com)
+
+Standard tuning
+
+This song consists of four chords: G, Cadd9, D, and Em7.
+Different variations of these chords are played by the two electric
+guitars, but that's the gist.
+
+The first guitar opens over an Em9 vamp:
+-2--2-----2----2-----2----2-----2^3--3--3--3----|
+-3--3-----3----3-----3----3-----3----3--3--3---:|
+-0--------0----0-----0----0-----0----0--0--0----|
+-------x----------x----------x----------2--2----|
+-2-----x--2----2--x--2----2--x--2--------------:|
+-0-----x----------x----------x------------------|
+
+After several bars, it finally settles down into the verse, which
+plays these chords:
+
+---3-----3-----2-----2-----|
+---3-----3-----3-----3-----|
+---0-----0-----2-----0-----|
+---0-----2-----0-----------|
+---2-----3----(0)----2-----|
+--(3)----------------0-----|
+   G   Cadd9   D    Em9
+
+So, for example, it's
+
+G                          Cadd9
+ Come over here and let me hold you dear
+       D                       Em9
+Let me kiss you all over your face
+
+The chorus has the same chords as the verse:
+
+            G               Cadd9
+Down at the end of the rainbow
+          D                       Em9
+(With) my pretty little pot of gold
+          G                  Cadd9
+Are there violins playing or is it just me
+        D                      Em9
+This is better than I've been told
+
+
+The second electric guitar plays chords very similar to the first:
+
+---3-----3-----3-----3-----|
+---3-----3-----3-----3-----|
+---0-----0-----2-----0-----|
+---0-----2-----0-----2-----|
+---2-----3----(0)----2-----|
+---3-----------------0-----|
+   G   Cadd9 Dsus4  Em7
+
+
+That's pretty much the entire song. Here's the solo.
+
+
+G             Cadd9   D                             Em9
+----------------------8------------------------------------
+-----8--10--10b12--------12b10^8---10b12b10^8--------------
+-/9--------------------------------------------(9)--7/9~---
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+G            Cadd9                          D
+-----------------------------------------------------------
+-15-12-----------------------------------------------------
+-------14--12^14--14b16--12--14~----12--14--15b14^12-------
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+                     Em9         Em9
+----------------------------------------------------------|
+----------------------------------------------------------|
+-14--14b15b14------------------------------------(0)------|
+---------------14^12^14~-------------------<12>-----------|
+---------------------------------5^7--<7>-----------------|
+----------------------------------------------------------|
+                                      natural harmonics
+
+
+I think that just about covers it. Any questions, gimme a holler.
+Dave Shapiro
+daves@DISEMBOWEL_ALL_SPAMMERScyber-fx.com
+
+Ê
+Ê

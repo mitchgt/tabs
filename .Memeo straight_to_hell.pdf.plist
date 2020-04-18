@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:14Z</date>
+		<key>actualSize</key>
+		<integer>76869</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:10Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:41:50Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>2CCFEEAE-51BA-44A3-A2A1-4AFF2938CCE4</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:44:01Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/straight_to_hell.pdf</string>
+		<key>originalSize</key>
+		<integer>76869</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>3C4C4E81-16B3-428C-A7FC-0A03080ED11A</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

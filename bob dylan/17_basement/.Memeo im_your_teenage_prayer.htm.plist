@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:09Z</date>
+		<key>actualSize</key>
+		<integer>4065</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:03Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>47FC5FB1-0586-4E22-9D7B-108569166573</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:47:01Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/17_basement/im_your_teenage_prayer.htm</string>
+		<key>originalSize</key>
+		<integer>4065</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>2FDD8889-34FC-4949-9466-9BFC35154486</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

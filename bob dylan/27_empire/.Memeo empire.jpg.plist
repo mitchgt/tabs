@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:10Z</date>
+		<key>actualSize</key>
+		<integer>7766</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:05Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>52569C6A-986D-431A-8350-D41F7119A359</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:47:24Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/27_empire/empire.jpg</string>
+		<key>originalSize</key>
+		<integer>7766</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>F3E8A4F5-208A-4B93-9EBE-FE8EBEA4018F</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,82 @@
+Artist: Glen Campbell
+Song: Wichita lineman
+Composer: Jimmy Webb
+Tabbed by: DJ
+13th Oct 2012
+
+
+Fmaj7   = 133210 or xx3210   G4    = 320013    Gm/Bb   = x10033
+C11     = x33333             G     = 320003    D/A     = x00232
+Bbmaj7  = x13231             D     = xx0232    A7sus4  = x02030
+Fmaj7/A = x03210             D4    = xx0233    Csus2   = 335533 or x30030
+Dm7     = xx0211             Cadd9 = x32030    C       = x32010
+Am7     = x02213             G/B   = x20033    D *     = x57775
+
+******************************************************************************
+
+[Intro- bass guitar riff]
+e|----------------------|
+B|----------------------|
+G|---3--2---------------|
+D|-----------3----0-----|
+A|------------------3---|
+E|----------------------|
+
+ Fmaj7         C11            Fmaj7
+| /  /  /  / |  /  /  /  /  |  /  /  /  /  |
+
+
+[Verse 1]
+C11                         Bbmaj7  Fmaj7/A                       C11
+     I am a lineman for the county,          and I drive the main road,
+   Dm7           Am7          G4     G       D     D4 D
+Searching in the sun for a - nother over - load,
+                          Cadd9                              G/B    Gm/Bb
+I hear you singing in the wires, I can hear you through the whine,
+                  D/A   A7sus4                 Bbmaj7   Csus2    Bbmaj7
+And the Wichita lineman...     is still on the line----------!
+
+
+[Verse 2]
+C11                             Bbmaj7  Fmaj7/A                        C11
+     I know I need a small va - cation,         but it don't look like rain,
+     Dm7                 Am7                     G4    G         D     D4 D
+And, if it snows, that stretch down south won't ever stand the strain,
+                         Cadd9                             G/B   Gm/Bb
+And I need you more than want you, and I want you for all time,
+                  D/A   A7sus4                 Bbmaj7   Csus2   Bbmaj7
+And the Wichita lineman...     is still on the line----------!
+
+
+[Verse 3 - Lead guitar riff with tremelo effect]
+     C11                        Bbmaj7   Fmaj7/A                 C11
+E |---3------------------------|--------|----------------------|-------------|
+B |---3------------------------|-----1--|----------------------|-------------|
+G |---3-----------3-3--2-2--0--|--2-----|-------------3--2-----|-------------|
+D |---3-----3--5---------------|--------|-------3--5--------3--|-------------|
+A |---3--3---------------------|--------|----------------------|--3------3---|
+E |----------------------------|--------|----------------------|-------------|
+
+    Dm7          Am7           G4     G          D   D4                  D
+E |--------------------------|-----------------|---------------------|-------|
+B |--------------------------|-----3-----------|---------------------|-------|
+G |-----5--5------5-5--5--5--|--5-----4--2--0--|--2------------------|-------|
+D |--3--------3--------------|-----------------|------0-0--0-0--0-0--|---0---|
+A |--------------------------|-----------------|---------------------|-------|
+E |--------------------------|-----------------|---------------------|-------|
+
+D                            Cadd9                            G/B    Gm/Bb
+    And I need you more than want you, and I want you for all time,
+                  D/A   A7sus4               Bbmaj7  Csus2   Bbmaj7  C11
+And the Wichita lineman...    is still on the line---------!
+
+
+[Orchestral coda]
+   Bbmaj7         C            Bbmaj7         C
+||: /  /  /  / |  /  /  /  / |  /  /  /  / |  /  /  /  / :||[Repeat]
+
+
+[Suggestion for staccato 'morse code' rhythm ending]
+ Bbmaj7                             Csus2                              D *
+| /_/_/_/  /__/_/  /_/__/  /_/__/ | /_/_/_/  /__/_/  /_/__/  /_/__/ |  / ||
+  ^ ^   ^  ^  ^ ^    ^  ^  ^ ^  ^   ^ ^   ^  ^  ^ ^    ^  ^  ^ ^  ^    ^

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:14Z</date>
+		<key>actualSize</key>
+		<integer>926</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:10Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:22Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>3943A7D6-80AA-4620-8777-C77906F1983C</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:45:00Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/wish_you_were_here Files/EolasFix-v2.js</string>
+		<key>originalSize</key>
+		<integer>926</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>FFA61158-DA86-40A1-A30B-85BB918D9480</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

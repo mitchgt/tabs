@@ -1,0 +1,240 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+
+Here is the acoustic guitar part for the Black Crowes' "She Talks To Angels".  
+Chris Robinson's guitar is tuned to an Open E chord.  I sort of stumbled 
+onto this fact when I was I was trying to learn another tune that was in 
+Open E.  Most of this I figured out by ear, some I picked up from the
+Crowes' appearance in MTV Unplugged.   I'm not claiming it's 100%
+accurate, and I haven't included any strict timing indicators.  Use this 
+tab as a guide, and listen to the recording to get a feel for the timing
+and chord changes.
+
+To tune to Open E, raise the 5th (A) string to B  (full tone)
+                   raise the 4th (D) string to E  (full tone)
+                   raise the 3rd (G) string to G# (half tone)
+
+As usual:  h = hammer on
+           p = pull off
+           s = slide
+           
+The characters ^ and v below the tab indicate suggested strumming patterns
+for chord sections (^ = strum up, towards the ceiling, v = strum down)
+
+===========================================================================
+
+                    She Talks To Angels
+
+                Written by Chris/Rich Robinson
+                Performed by The Black Crowes
+ 
+ 
+INTRO
+-----
+
+ e|------0---------0--+---------0---------+-----0------------+ (Repeat)
+ B|--4s5---4s2--0-----|------0------------|-----0------------|
+G#|-------------------|--0h1------1--1p0--|-----0------------|
+ E|-------------------|-------------------|--0--0------------|
+ B|-------------------|-------------------|------------------|
+ E|-------------------+-------------------+------------------+
+
+                                       (natural harmonics)
+|------------------+------------------+---5-----7--------+------------------|
+|--0-0-0---0-0-0---|--0--0--0--0------|---5-----7--------|------------------|
+|--0-0-0---0-0-0---|--1--1--1--0------|---5-----7--------|------------------|
+|--0-0-0---0-0-0---|--2--4--2--0------|---5-----7--------|------------------|
+|--0-0-0---0-0-0---|--0--0--0--0------|---5-----7--------|------------------|
+|------------------+------------------+------------------+------------------|
+   v ^ v   v v ^      v  v  v  v         (sharp downward strokes)
+
+|------------------+------------------+------------------+------------------|
+|-----------0--0---|--0--0--0--0------|-------------2p0--|----------0-------|
+|-----------0--0---|--1--1--1--0------|-------3p0--------|-0--3p0-----------|
+|-----------0--0---|--2--4--2--0------|-2s4-4-----2------|--------2---2-----|
+|-----------0--0---|--0--0--0--0------|------------------|------------------|
+|------------------+------------------+------------------+------------------|
+            v  ^      v  v  v  v   
+
+
+|-------------------+------------------+-0---0---0---0----+-0---0---0---0----|
+|---0---0-0-0-------|--0--0--0--0------|---5---4----------|------------------|
+|---0---0-0-0-------|--1--1--1--0------|-----------5---3--|---1---0----------|
+|---0---0-0-0-------|--2--4--2--0------|------------------|-----------0------|
+|---0---0-0-0-------|--0--0--0--0------|------------------|------------------|
+|-------------------+------------------+------------------+------------------|
+    v   v v ^          v  v  v  v         
+
+|-------------------+------------------+
+|---0---0-0-0-------|--0--0--0--0------|
+|---0---0-0-0-------|--1--1--1--0------|
+|---0---0-0-0-------|--2--4--2--0------|
+|---0---0-0-0-------|--0--0--0--0------|
+|-------------------+------------------+
+    v   v v ^          v  v  v  v         
+
+
+
+
+VERSES   (all verses are played the same, no chord for the first half,
+------    and then the strumming pattern below for the second half)
+
+1.  She never mentions the word addiction
+    In certain company
+    Yes, she'll tell you she's an orphan
+    After you meet her family
+2.  She paints her eyes black as night now
+    Pulls those shades down tight
+    Yeah she gives a smile when the pain comes
+    The pain gonna make everything alright, alright
+3.  She keeps a lock of hair in her pocket
+    She wears a cross around her neck
+    Yes, the hair is from the little boy
+    And the cross is someone she has not met, not yet
+
+         +-------------------+------------------+------------------+
+         |-------------------|--0----0-0-0------|--0--0--0--0------|
+         |-------------------|--0----0-0-0------|--1--1--1--0------|
+         |-------------------|--0----0-0-0------|--2--4--2--0------|
+         |-------------------|--0----0-0-0------|--0--0--0--0------|
+         +-------------------+------------------+------------------+
+                                v    v v ^         v  v  v  v
+
+
+CHORUS
+------
+
+1.  (no lyrics)
+2.            She says she talks to angels         they call her out by her nam
+e
+              Oh yeah she talks to angels     says they call her out by her nam
+e
+3.            She says she talks to angels         says they all know her name
+              Oh yeah she talks to angels     says they call her out by her nam
+e
+
+|-0-0-0-0-0-0-0-0-0-+-0-0-0-0-0-0--+--7--7-7-7-7-7-7--+--5--5-5-5-5-5-5--+
+|-5-5-5-5-5-5-5-5-5-|-5-5-5-5-5-5--|--7--7-7-7-7-7-7--|--5--5-5-5-5-5-5--|
+|-0-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0--|--7--7-7-7-7-7-7--|--5--5-5-5-5-5-5--|
+|-0-0-0-0-0-0-0-0-0-|-0-0-0-0-0-0--|--7--7-7-7-7-7-7--|--5--5-5-5-5-5-5--|
+|-------------------|--------------|--7--7-7-7-7-7-7--|--5--5-5-5-5-5-5--|
+|-------------------+--------------+------------------+------------------+
+  ^ v ^ v ^ v ^ v ^   v ^ v ^ v ^     v  v ^ v v ^ v     v  v ^ v v ^ v
+
+
++------------------+------------------+   (Repeat chorus using alternate lyrics
+)
+|--0----0---0------|--0--0--0--0------|
+|--0----0---0------|--1--1--1--0------|
+|--0----0---0------|--2--4--2--0------|
+|--0----0---0------|--0--0--0--0------|
++------------------+------------------+
+   v    v   ^         v  v  v  v
+
+
+
+BRIDGE
+------
+
+(A = x55555,   E=x00000,  Esus=x00100)
+
+
+A                  E   Esus    A                 E   Esus
+She don't know no lover,       none that I ever seen
+A                            E      Esus
+Yeah, to her that that ain't nothing
+       A                      E
+But to me, it means everything
+
+
+Repeat Verse 2 and Chorus
+-------------------------
+
+
+Date: Fri, 20 Oct 1995 23:22:18 -0500 (CDT)
+From: Denny <c638538@showme.missouri.edu>
+Subject: TAB: She Talks to Angels by Black Crowes
+                        
+			SHE TALKS TO ANGELS
+                           Black Crowes
+                       Shake Your Moneymaker
+
+The first thing you want to do is tune your guitar.  Rich Robinson plays 
+in open D tuning to get a loose feel for the strings, but most 
+transcriptions that've been published are in open E.
+For open E tuning, you start with the regular tuning, EADGBE (low to 
+high), and you tune the ADG strings up to BEG# respectively.  So you end 
+up with EBE(G#)BE.  
+For open D tuning, you'll like this a lot better, you do the same and 
+then drop every string a whole step: you end up with DAD(F#)AD.  Rich 
+then capos at the 2nd fret, so you end up with open E-tuning anyway, but 
+there is a big difference in the feel.
+
+
+-----0-------0----------0------------0-;--0-0-0---0---0--------0--0----
+-4h5---4\2-0---0------0--------------0-;--0-0-0---0---0--0-----0--0----
+------------------0h1-----1--1p0-----0-;--0-0-0---0---0--1--0--1--0----
+----------------------------------0--0-;--0-0-0---0---0--2--0--2--0----
+-------------------------------------0-;--0-0-0---0---0--2--0--2--0----
+---------------------------------------;--0-0-0---0---0--0--0--0--0----
+(Repeat part before ; once)
+
+
+N.H.  N.H
+-12---14---------0---0-0--------0--0--------------------------------------
+-12---14---------0---0-0--0-----0--0-----------------------------------0--
+-12---14---------0---0-0--1--0--1--0------------0-3p0----5p0----3p0-------
+-12---14---------0---0-0--2--0--2--0----0--2/4--------0------0-------0----
+-12---14---------0---0-0--2--0--2--0--------------------------------------
+-12---14---------0---0-0--0--0--0--0--------------------------------------
+
+
+--------0---0-0--0--0--0--0----0---0---0---0---0---0-------------------
+--------0---0-0--0--0--0--0------5---4---2---0--------------0----------
+--------0---0-0--1--0--1--0----------------------1---1p0---------------
+-2--0---0---0-0--2--0--2--0-------------------------------0---2--0-----
+--------0---0-0--2--0--2--0--------------------------------------------
+--------0---0-0--0--0--0--0--------------------------------------------
+
+
+-0---0-0--0--0--0--0--]
+-0---0-0--0--0--0--0--]  That's the introduction:  right after this,
+-0---0-0--1--0--1--0--]  Chris sings 'She never mentions the word addiction'
+-0---0-0--2--0--2--0--]
+-0---0-0--2--0--2--0--]
+-0---0-0--0--0--0--0--]
+
+
+..addiction                    ...certain company   
+-0-0-0---0---0-0--0--0--0--0--------------0--0--0-0--0--0--0--0-----
+-0-0-0---0---0-0--0--0--0--0--------------0--0--0-0--0--0--0--0-----
+-0-0-0---0---0-0--1--0--1--0--------------0--0--0-0--1--0--1--0-----
+-0-0-0---0---0-0--2--0--2--0--------------0--0--0-0--2--0--2--0-----
+-0-0-0---0---0-0--2--0--2--0--------------0--0--0-0--2--0--2--0-----
+-0-0-0---0---0-0--0--0--0--0--------------0--0--0-0--0--0--0--0-----
+
+                              B            A  
+-0-0-0-0--0--0--0-0-0---------7--7---------5-----5-5---0-0-0--0--0-0--
+-5-5-5-5--5--5--5-5-5---------7--7-----7---5--5--5-5---0-0-0--0--0-0--
+------------------------------7--7-----7---5--5--5-5---0-0-0--0--0-0--
+------------------------------7--7-----7---5--5--5-5---0-0-0--0--0-0--
+------------------------------7--7--7--7---5--5--------0-0-0--0--0-0--
+------------------------------7--7--7--7---5--5--------0-0-0--0--0-0--
+
+                'She don't know no lover....'
+-0--0--0--0--;---5--5----5---------------------------
+-0--0--0--0--;---5--5----5-----------0---------------
+-1--0--1--0--;---5--5--5-5--0--------0----1--1--0--0-
+-2--0--2--0--;---5--5--5-5--0--2--2--0----2--2--0----
+-2--0--2--0--;---5--5--5-5--0--2--2--0----2--2--0----
+-0--0--0--0--;---5--5--5-5--0--------0----------0----
+
+Well, that's all the parts.  The intro parts are repeated in the middle 
+of the song.  That last stuff after the semicolons is the breakdown right 
+before the intro is repeated.  The stuff before the semicolons is the 
+chorus riff.  Hope this helps.  Enjoy.  And remember, all this tab is 
+recordes as if the capo is invisible and the nut is at the second fret 
+(for dropped D).
+

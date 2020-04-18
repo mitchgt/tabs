@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:13Z</date>
+		<key>actualSize</key>
+		<integer>6208</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:13Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:41:48Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>AB931CF9-803C-4F13-9911-AB2ED4A83F51</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:44:04Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/jack_of_hearts.txt</string>
+		<key>originalSize</key>
+		<integer>6208</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>080ACB81-B009-4656-9632-EC9693A810EF</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

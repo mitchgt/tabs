@@ -1,0 +1,58 @@
+INTRO:  I,  V7,  I, V7
+
+
+CHORUS:
+   I                                                              V7    
+Oh Lord, it's hard to be humble, ..  when you're perfect in every way
+                                                                                
+I can't wait to look in the mirror, .... 'cause I get better lookin' each day
+   I                             I7                  4     
+To know me is to love me ___,  I must be a hell of a man
+                          I                  V7                    I     
+Oh, Lord, it's hard to be humble, .. but I'm doing the best that I can
+
+  I       IV      I                                                V7     
+I used to have a girlfriend, .. but I guess she just couldn't com-pete
+                                                                  I      
+With all of these love-starved women, .. who keep clamoring at my feet
+                                               I7                          IV     
+Well I prob'ly could find me a-nother .. but I guess they're all in awe of me
+                       I                     V7                     I   V7
+Who cares, I never get lonesome, .. 'cause I treasure my own compan-y,  Oh
+  I               IV         I                                     V7      
+I guess you could say I'm a loner, .. a cowboy out-law, tough and proud
+                                       
+Oh, I could have lots of friends if I want-a /
+                                                 I       
+     / .. but then I wouldn't stand out from the crowd
+                             
+Some folks say that I'm ego-tistical /
+                  I7                        IV       
+     / .. Hell, I don't even know what that means
+                            I          
+I guess it has somethin' to do with the way /
+                 V7                          I      V7
+     / .. that I fill out my skin-tight blue jeans, Oh
+
+
+
+CHORDS (Nashville Number System):
+- This system permits you to play a song in any key
+- It uses the numeric relationships between chords in a given key
+- The numbers are the notes of the diatonic scale (do-re-me-fa-so-la-ti-do)
+
+     Common Keys  I   II   III  IV    V    VI   VII
+     Key of C:    C    D    E    F    G    A    B
+     Key of D     D    E    F#   G    A    B    C#
+     Key of E     E    F#   G#   A    B    C#   D#
+     Key of F     F    G    A    Bb   C    D    E 
+     Key of G     G    A    B    C    D    E    F#
+     Key of A     A    B    C#   D    E    F#   G#
+     Key of Bb    Bb   C    D    Eb   F    G    A
+
+EDITING (to a chosen key):
+- Use the "replace" feature of any text editor
+- Most songs use four chords or less ( I > V > IV > VI )
+- Beware: the number 7 could be the seventh scale note or a 7th chord
+
+- Submitted by:  Barrie McCombs (bmccombs@acs.ucalgary.ca) 

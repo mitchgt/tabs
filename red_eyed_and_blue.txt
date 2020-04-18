@@ -1,0 +1,202 @@
+:::::::::::::::::
+Red-Eyed and Blue
+:::::::::::::::::
+
+by Jeff Tweedy
+
+Tabbed by Brian R. Kessler <bkessler@btv.ibm.com>
+
+Here is a detailed explanation of how to play it, followed by a summary.
+
+For the intro, the guitar just seems to play an A-chord, with the piano
+adding the fill-notes.  If you wish to play the fill notes on guitar, you
+will have to make the A-chord with your 2,3,4 fingers in a line, and your
+1 (index) finger on the 1st fret of the Hi-e stg.  I'll call this chord A1,
+since there will be other A fingerings that we will have to use.
+
+By the way, Jeff seems to use a lot of A-chord fingerings, as evidenced by
+this song and, similarly _A.M._'s "I Must Be High", where he seems to use an
+inverted D-chord triangle fingering (all mushed together at the 2nd fret),
+for the A and just slides his 1-finger down for the next chord, Amaj7.
+
+
+A1:      Chord (drawn like a guitar)      Fill (drawn like tablature)
+               (numbers mean fingers)          (numbers mean frets)
+
+         e .-----.-----.-----.---          e --------1-----
+         B |-----|--4--|-----|---          B --2--0--------
+         G |-----|--3--|-----|---          G --------------
+         D |-----|--2--|-----|---          D --------------
+         A |-----|-----|-----|---          A --------------
+         E '-----'-----'-----'---          E --------------
+
+>>> (A1)We've got solid-state technology
+>>> (F#m)Tapes on the (F#m maj7)floor
+
+For the (F#m) to (F#m maj7) change, just put your 2-finger behind your
+4-finger after the (F#m).  The letter 'O' means make a barre with your
+1-finger, like this:
+
+F#m:  e .-----.--O--.-----.-----.--  F#m maj7:  e .-----.--O--.-----.-----.--
+      B |-----|--O--|-----|-----|--             B |-----|--O--|-----|-----|--
+      G |-----|--O--|-----|-----|--             G |-----|--O--|-----|-----|--
+      D |-----|--O--|-----|--4--|--             D |-----|--O--|--2--|-----|--
+      A |-----|--O--|-----|--3--|--             A |-----|--O--|-----|--3--|--
+      E '-----'--O--'-----'-----'--             E '-----'--O--'-----'-----'--
+
+
+>>> And some (A2)songs we can't (F#m maj7/F)afford to (F#m)play (A7)
+
+
+For this progression, make a four-string barre for the A-chord (just don't
+strum the Hi-e stg - I'll hereafter refer to this as A2), walk the bass-note
+up, then pivot the 2 and 4 fingers around for the last chord (A7).
+
+A2:  e .-----.--x--.-----.--    F#m maj7/F:  e .-----.--O--.-----.-----.--
+     B |-----|--O--|-----|--                 B |-----|--O--|-----|-----|--
+     G |-----|--O--|-----|--                 G |-----|--O--|-----|-----|--
+     D |-----|--O--|-----|--                 D |-----|--O--|--2--|-----|--
+     A |-----|-----|-----|--                 A |-----|-----|-----|-----|--
+     E '-----'-----'-----'--                 E '-----'-----'-----'-----'--
+
+F#m:  e .-----.--O--.-----.-----.-   A7:  e .-----.--O--.--2--.-----.-----.-
+      B |-----|--O--|-----|-----|-        B |-----|--O--|-----|-----|-----|-
+      G |-----|--O--|-----|-----|-        G |-----|--O--|-----|-----|-----|-
+      D |-----|--O--|-----|--3--|-        D |-----|--O--|-----|-----|--4--|-
+      A |-----|-----|-----|-----|-        A |-----|-----|-----|-----|-----|-
+      E '-----'-----'-----'-----'-        E '-----'-----'-----'-----'-----'-
+
+
+
+>>>  But when we (D)came here today (Dm)
+
+The (Dm) should really be played as a barre chord up at the 5th fret, to sound
+the same as the record, but I just play it open, at the nut.  It's easier that
+way.
+
+
+>>>  All I (Fm)wanted to (Em)say
+>>>  Is how much I (A1)miss you       (add fill after the line...)
+
+>>>  (A3)Alcohol (A/G)and (A/F#)cotton balls (Dm/F)
+
+(A3) is how I make an ordinary A-chord.  Most people seem to like to put
+their 1-2-3 fingers in a line at the second fret, but I like to use the
+D-chord triangle, and just mush them all together at the second fret.  This
+puts my 3-finger on the 2nd-fret, G-stg, which makes for an easy change to
+the last chord in this progression.
+
+For the (A/G), I reach up with my pinky to catch the G bass-note.  The (A/F#)
+may actually be an (F#m7).  In either case I just hit the F# bass-note with my
+thumb, and play the rest of the A-chord.
+
+For the (Dm/F), don't hit the Hi-e stg.  You can hear that he stops his strum
+on the B-stg.  To make this chord, just keep the 3-finger anchored at the
+2nd fret (from my recommended A-chord fingering), and pivot around it.
+
+  A3:  e .-----.-----.-----.--         A/G:  e .-----.-----.-----.-----.--
+       B |-----|--2--|-----|--               B |-----|--2--|-----|-----|--
+       G |-----|--3--|-----|--               G |-----|--3--|-----|-----|--
+       D |-----|--1--|-----|--               D |-----|--1--|-----|-----|--
+       A |-----|-----|-----|--               A |-----|-----|-----|-----|--
+       E '-----'-----'-----'--               E '-----'-----'--4--'-----'--
+
+A/F#:  e .-----.-----.-----.---       Dm/F:  e .-----.-----.-----.-----.--
+       B |-----|--2--|-----|---              B |-----|-----|--4--|-----|--
+       G |-----|--3--|-----|---              G |-----|--3--|-----|-----|--
+       D |-----|--1--|-----|---              D |-----|-----|-----|-----|--
+       A |-----|-----|-----|---              A |-----|-----|-----|-----|--
+       E '-----'--T--'-----'---              E '--1--'-----'-----'-----'--
+
+
+>>> And some (A2)drugs we can't (F#m maj7/F)afford on the (F#m)way (A7)
+
+Same walk-up as before.
+
+
+>>> But when we (D)came here today (Dm)
+>>> We all felt (Fm)something true (Em)(Em add F)
+
+>>> Now (A1)I'm                (add fill on A-chord)
+>>> (F#m)red-eyed and (D)blue...
+
+
+
+
+
+
+Closing part:  I like to play the riff over the A-chord part, then strum the
+               full chords for the E & E7.  Play this twice (obviously).
+
+
+        A             A            E            E7
+
+    e -------------.-------------.------------.-------------
+    B -------------|-------------|------------|-3-----------
+    G -------------|-------------|----1-------|-1-----------
+    D -------------|-------------|----2-------|-0-----------
+    A -------------|-------------|----2-------|-2-----------
+    E --5-5-5-0-2--'--5-5-5-0-2--'-0----------'-------------
+
+
+
+Then, for the whistling bit, the chords are:
+
+A-D-Bm-Bm
+
+A-D-Bm-Bm
+
+A-D-F#m
+
+A-E
+
+Then for the two piano chords after the fade out, simply...
+
+G-A
+
+
+--------------------- Summary ------------------------------------------------
+
+ (A1)We've got solid-state technology
+
+ (F#m)Tapes on the (F#m maj7)floor
+
+ And some (A2)songs we can't (F#m maj7/F)afford to (F#m)play (A7)
+
+ But when we (D)came here today (Dm)
+
+ All I (Fm)wanted to (Em)say
+
+ Is how much I (A1)miss you
+
+ (A3)Alcohol (A/G) and (F#m)cotton balls (Dm/F)
+
+ And some (A2)drugs we can't (F#m maj7/F)afford on the (F#m) way (A7)
+
+ But when we (D)came here today (Dm)
+
+ We all felt (Fm)something true (Em)(Em add F)
+
+ Now (A1)I'm
+
+ (F#m)red-eyed and (D)blue...
+
+ A-A-E-E7
+
+ A-D-Bm-Bm
+ A-D-Bm-Bm
+ A-D-F#m
+ A-E
+
+ G-A
+
+
+
+
+
+
+
+
+
+
+

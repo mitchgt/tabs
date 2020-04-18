@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:10Z</date>
+		<key>actualSize</key>
+		<integer>1782</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:07Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>909DBBA9-974D-4F28-96A4-7692CF75D231</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:45:19Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/34_bootleg/sittin_on_a_barbed_wire_fence.htm</string>
+		<key>originalSize</key>
+		<integer>1782</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>18B5F277-D0FB-4FCD-BA6A-1E3C272A1706</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

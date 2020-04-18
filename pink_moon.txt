@@ -1,0 +1,271 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+Subject: d/nick_drake/pink_moon.tab
+Date: Wed, 16 Aug 1995 16:47:16 +0100 (BST)
+From: Howard Wright <H.Wright@astronomy.cardiff.ac.uk>
+
+
+                         PINK MOON - Nick Drake 
+                      -----------------------------
+
+
+
+
+
+                                    Tabbed by Howard Wright
+                                    H.Wright@astro.cf.ac.uk
+                   
+                                    Thanks to Jared White for
+                                    the tuning
+
+
+
+The tuning for this song is (from low to high) :
+
+ D A D G D F#
+
+
+
+If you prefer not to stress the top two strings too much, you 
+can tune to C G C F C E instead, and use a capo on the 2nd fret.
+
+
+I'll just TAB out the main shapes - it should be easy to see 
+which bits go where as there are only two or three different bits.
+
+
+
+Verse bit :
+-----------
+
+F#---7---7---7---7-----5---5---5---5------
+D----7---7---7---7-----5---7---5---7-------
+G----9---7---9---7-----7---5---7---5------- (repeats once)
+D----7---7---7---7-----5---5---5---5-------
+A----7---7---7---7-----5---5---5---5-----
+D----7---7---7---7-----5---5---5---5------
+
+
+Chorus :
+--------
+
+F#-----0--0--0----0--0--0------0--0---0--0------------
+D------0--0--0----0--0--0------0--0---0--0------------
+G------2--2--2----0--0--0--0---2--2---2--2------------
+D------0--0--0----2--0--0--0---0--0---0--0-----------
+A------0--0--0----0--0--2--0---0--0---0--0----------
+D------0--0--0-------------0---0--0---0--0---------
+
+It's a pink moon... yeah...it's a pink moon
+
+
+
+F#--0-0--0-0-----------------------------------
+D---0-0--0-0----------------------------------
+G---0-0--0-0---etc------------------------------
+D---2-2--2-2-------------------------------
+A---2-2--2-2------------------------------
+D---2-2--2-2--------------------------------
+
+Pink pink pink pink .......
+
+
+These bits repeat a few times - the only other section is
+the instrumental bit where the piano comes in.
+
+The chord sequence for this is :
+
+
+F#--0--0-----0--0--------------0----------------
+D---0--0-----0--0------0--0----0-----------------
+G---2--2-----0--0------0--0----2----------------
+D---0--0-----2--2------0--0----0--------------
+A---0--0-----2--2------5--5----0-------------
+D---0--0-----2--2------5--5----0---------------
+
+
+That's about all ....
+
+Hope you like it !
+
+
+Howard
+
+
+
+
+
+
+
+From: michael.healey@balliol.ox.ac.uk (Mike)
+Subject: TAB: Pink Moon (Nick Drake)
+
+Here's my transcription of Pink Moon, please tell me if you think 
+it's wrong!
+
+Pink Moon - Nick Drake
+=========
+
+He uses DADGDF# tuning. If you want to avoid breaking too many 
+strings try tuning to CGCFCE and using a capo at the 2nd fret. 
+
+Introduction:-
+
+F#||-0-0-0-0-0-0-0-0-0---||
+D ||-0-0-0-0-0-0-0-0-0---||
+G ||-2-2-2-0-0-0-0-0/2--.||
+D ||-4-4-4-2-0-2-0-2/4--.||
+A ||-0-0-0-0-0-0-0-0-0---||
+D ||-0-0-0-0-0-0-0-0-0---||
+
+Verse:-
+
+||-7-7-7-7-7---5-5-5-5-5---||
+||-7-9-7-9-7---5-7-5-7-5---||
+||-7-7-7-7-7---5-5-5-5-5--.||
+||-7-7-7-7-7---5-5-5-5-5--.||
+||-7-7-7-7-7---5-5-5-5-5---||
+||-7-7-7-7-7---5-5-5-5-5---||
+
+Chorus:-
+
+Introduction followed by:-
+
+||-0-----0-----0-0-0-0-0-0------||
+||-0-----0-----0-0-0-0-0-0------||
+||-0-----2-----0-0-0-0-0-2-----.||
+||-0-----4-----2-0-2-0-2/4-----.||
+||-2-----0-----0-0-0-0-0-0------||
+||-2-----0-----0-0-0-0-0-0------||
+
+Solo:-
+
+||---------------|-----------------||
+||---------------|-----------------||
+||-2-------------|-0-----------2--.||
+||-4-2-0---------|---4-2-0---0-0--.||
+||-------4-2---2-|---------2-------||
+||-----------5-2-|-----------------||
+
+(let all the open strings ring during the solo)
+
+I hope that makes sense... You'll have to work out the rhythm by 
+playing along to the tape.
+
+To help learn it, here are the chords used during the song. The 
+numbers on the fretboards represent where you should put your fingers 
+and the numbers correspond to which finger I use to play it 
+comfortably (1=thumb, ... , 5=little finger). 
+
+Intro:-
+
+O O     O O      O O   O O O      O O O O O O  
+===========      ===========      ===========
+| | | | | |      | | | | | |      | | | | | |
+|=|=|=|=|=|      |=|=|=|=|=|      |=|=|=|=|=|
+| | | 2 | |      | | 4 | | |      | | | | | |
+|=|=|=|=|=|      |=|=|=|=|=|      |=|=|=|=|=|
+| | | | | |      | | | | | |      | | | | | |
+|=|=|=|=|=|      |=|=|=|=|=|      |=|=|=|=|=|
+| | 4 | | |      | | | | | |      | | | | | |
+|=|=|=|=|=|      |=|=|=|=|=|      |=|=|=|=|=|
+
+
+Verse:-
+
+          |=|=|=|=|=|      |=|=|=|=|=|
+7th fret  2 2 2 2 2 2      2 2 2 2 | 2
+          |=|=|=|=|=|      |=|=|=|=|=|
+          | | | | | |      | | | | 4 |
+          |=|=|=|=|=|      |=|=|=|=|=|
+
+And the same patterns at the 5th fret.
+
+Chorus:-
+
+    O O O O 
+===========
+| | | | | |
+|=|=|=|=|=|
+4 5 | | | |
+|=|=|=|=|=|
+
+Together with the intro chords.
+
+
+Tabbed out by Mike Healey
+(michael.healey@balliol.oxford.ac.uk)
+
+
+Also, here's a copy of some info I got sent about his odd tunings...
+
+
+I think I can help you out by relaying some information which helped 
+me
+out quite a bit with figuring out Nick Drake's guitar arrangements.
+(I've never posted any of the tabs because it's too much of a pain to 
+key in)
+Nick Drake used six different altered tunings. They are as follows:
+(1)DADGAF# (2)DADGDG (3)CGCFCE (4)DGDDAD (5)DADGDF# (6)DGDGAD
+He often capoed, so this can make it a bit harder to figure out which 
+tuning 
+he is using. I also believe that tuning number 6 was a full tone 
+lower on
+some songs [sorry, I mean tuning #5! (CGCFCE). 
+The tuning he used most often was tuning #5. This is the one he used 
+on
+"Which Will", "Parasite", "Hazey Jane"(I & II), "From the Morning", 
+"Pink Moon", and "Northern Sky". Tuning #1 was used on "Place to Be".
+Tuning #2 was used on "Fly". CGCFCE was used to play "Hanging on a 
+Star".
+Tuning #4 was used on "Road", and I believe it is used on "Things 
+Behind
+the Sun", though I am not sure of the latter fact. I THINK he uses 
+tuning
+#6 on "Day is Done", and he definitely uses it on "Clothes of Sand".
+I also believe the lowered version of tuning #5 was used on "From the 
+Morning"
+and "Which Will".
+
+As far as capo positions go, the ones I know are as follows: 
+Place to Be [2nd fret], Parasite [2nd fret], Pink Moon [1st fret],
+Northern Sky [1st fret], Fly [1st fret], Road [3rd fret], Clothes of 
+Sand
+[3rd fret], Day is Done [7th fret (I think)], Things Behind the Sun 
+[6th fret
+(I think)].
+
+And that's about all I know. I picked up most of this stuff from a 
+1988
+article in Frets magazine, which helped me immensely. The rest I 
+figured
+out myself by transcribing Nick Drake's songs, or attempting to. I 
+really
+wish someone would publish a tab book of his stuff. But as I 
+understand,
+he never took the trouble to do this himself during his all too brief 
+life,
+and no one has bothered to do it since, probably because it wouldn't 
+sell
+millions of copies. I hope this info helps you. Let me know if you 
+have
+any questions.
+                  Ethan H.
+
+----------------------------------------------------------------
+           End of forwarded message
+----------------------------------------------------------------
+
+Cheers,
+
+       
+    
+
+===========
+  Mike H.
+===========
+
+michael.healey@balliol.oxford.ac.uk
+

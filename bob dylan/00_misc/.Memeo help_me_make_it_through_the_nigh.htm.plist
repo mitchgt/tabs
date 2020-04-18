@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:08Z</date>
+		<key>actualSize</key>
+		<integer>2140</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:15Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:41:55Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>47F9BA60-182A-488F-BD2C-4F98EC5F8153</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:48:24Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/00_misc/help_me_make_it_through_the_nigh.htm</string>
+		<key>originalSize</key>
+		<integer>2140</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>4D4895CB-92D8-4033-8909-72447D90282C</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

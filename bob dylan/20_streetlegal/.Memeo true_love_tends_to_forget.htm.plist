@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:09Z</date>
+		<key>actualSize</key>
+		<integer>2406</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:16Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:04Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>92203072-FD35-4F64-8BFA-C57B4565FE79</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:45:45Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/20_streetlegal/true_love_tends_to_forget.htm</string>
+		<key>originalSize</key>
+		<integer>2406</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>06F22ABC-1634-44C4-A9CE-E13F90133865</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

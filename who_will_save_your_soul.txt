@@ -1,0 +1,157 @@
+ standard tuning
+ 
+ chords:
+ Am    X02210
+ C     X32010
+ G     320003
+ Dsus4  XX0233
+ D     XX0232
+ 
+ Intro:
+ 
+ e-
+ B-
+ G-
+ D-------------------------------------------------------------
+ A-0-0-0-0-0-0-3-3-3-3-3-3-------------3/5-5-5-5-5------3
+ E-----------------------------------3-3-3-3-3
+ 
+ The whole song is played in the same order below, except at the
+ interlude, which should be just E (022100).
+ 
+   Am        C         G         Dsus4       D
+ 
+ e-------0---------0---------3---------3-2
+ B---------1---------1---------0---3------
+ G---2---------0---------0-----------2----
+ D-----2---------2---------0-----0--------
+ A-0---------3----------------------------
+ E---------------------3------------------
+ 
+ Or, you may want to replace picking the 3rd string with the 2nd string
+ from
+ the top for Am, C and G but the Dsus4 picking sounds right:
+ 
+   Am              C              G                    Dsus4  D
+ _________________________________________
+ e-------------------------0-------------3---------3-2
+ B---------0-1---------3-------------0-------3------
+ G----2-----------0-------------0---------------2----
+ D-------2-----------2-------------0---------0--------
+ A-0-----------3---------------------------------------
+ E---------------------------3--------------------------
+ 
+ 
+============================================================================
+         Title : Who Will Save Your Soul
+        Artist : Jewel
+         Album : Pieces Of You
+Transcribed by : Mike Eheler
+============================================================================
+
+Legend
+------
+ h  = hammer-on
+ p  = pull-off
+ b  = bend
+ r  = bend release
+ /  = slide up/down
+<5> = natural harmonic
+[5] = artifical harmonic
+ ~  = vibrato
+ tr = trill
+Chord Diagrams (low to high)
+----- --------
+Am X 0 2 2 1 X
+C X 3 2 0 1 0
+G 3 2 0 0 0 3
+D X X 0 2 3 2
+Tempo = 126
+    Am             C              G              D
+E |--------------|--------------|----------3---|-------3--2---|
+B |--------------|-------3--1---|-------0------|---3----------|
+G |---2---0--1---|---0----------|---0----------|-----2--------|
+D |-----2--------|-----2--------|-----0--------|-0------------|
+A |-0------------|-3------------|--------------|--------------|
+E |--------------|--------------|-3------------|--------------|
+
+Am                                C
+People livin' their lives for you on TV.
+                 G                   D
+They say they're better than you, and you agree.
+Am                                       C
+He says hold my calls from behind those cold brick walls
+G                                          D
+come here boy... there ain't nothing for free
+Am                              C
+Another burger, another hot dog, some fries
+      G                           D
+A wish in the well, hope your health don't go to hell, well
+Am                        C                                  G
+ Another doctor's bill, a lawyer's bill, another cute, cheap thrill.
+                             D
+You know you love him if you put him in your will.
+    Am          C             G             D
+But    who will save your soul when it comes to the flowers, now?
+Am C                    G                D
+Who will save your souls after those lies that you told, boy?
+Am             C        G                  D
+  And who will save your souls if you won't save your own?
+Am                          C                    G  D
+La, da, di, da, di, da, di, da, da, da, yeah, da.
+Am                                C
+  We try to hustle them, try to bustle them, try to cuss them.
+    G                                 D
+The cops want someone to bust down on Orleans Avenue.
+Am                     C                             G
+  Another day, another dollar, another war, another tower went up where the
+    D
+homeless had their homes.
+Am                      C                           G
+  So we pray to as many different gods as there are flowers.
+               D
+But we call religion our friend.
+Am                         C                             G
+  We're so worried about a-saving our souls, afraid that God will take his
+                 D
+toll, that we forget to begin, but
+    Am          C             G             D
+    who will save your soul when it comes to the vet'rans, now?
+Am C                    G                D
+Who will save your souls after those lies that you told, boy?
+Am             C        G                  D
+  And who will save your souls if you won't save your own?
+Am                          C                    G  D
+La, da, di, da, di, da, di, da, da, da, yeah, da.
+*4 bar drum & bass interlude, in the last two beats of the 4th bar play:
+
+  E |---------------|
+  B |-------3-1-----|
+  G |-----------0---|
+  D |---------------|
+  A |---------------|
+  E |---------------|
+Am                              C
+  Some are walking, some are talking, some are stalking their kill
+G                            D
+ 	Got social security, but that don't pay bills.
+            Am                             C
+There are addictions to feed, and there are mouths to pay.
+          G                                 D
+So you bargain with the devil, but you're O.K. for today.
+   Am                             C
+Say  that you love me; take their money and run.
+               G                             D                  Am
+Say, it's been swell, sweet-heart, but it was just one of those things.
+                               C
+Those flings, those strings you got to cut.
+          G                           D         Am
+So get out on the streets, girls, and bust your butts.
+         C     G     D  Am C  G       D
+Who will save, save your    soul when it comes to the vet'ran?
+Am   C                    G           D
+  Who will save your souls, those lies that you told, boy?
+Am             C     G                   D
+  And who will save, save your soul when you won't save your own?
+
+

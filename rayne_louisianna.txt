@@ -1,0 +1,108 @@
+Date: Mon, 26 May 2003 11:32:20 -0500
+From: Trey Graves Subject: r/robison_bruce/rayne_louisiana.tab
+
+"Rayne, Louisiana" by Bruce Robison, from the album "Wrapped"
+
+Submitted by Trey Graves,
+treygraves
+a t
+scientist.com
+
+For what it is worth, the guitars may use an alternate tuning.
+I am assuming standard tuning.
+
+            1 2 3 4 5 6
+            -----------
+E          0 2 2 1 0 0
+F#/E       2 4 4 2 0 0 (use thumb on 1st string)
+G/E        3 5 5 3 0 0 (use thumb on 1st string)
+G#/E       4 6 6 4 0 0 (use thumb on 1st string)
+A/E        5 7 7 6 0 0 (use thumb on 1st string)
+D7         x 3 4 2 1 0
+
+The F#/E might also be a minor 7th:
+F#m7/E     2 4 2 2 0 0 (use thumb on 1st string)
+
+First half of intro:
+
+|-------------------0-----0-----0-0-0-0-0-----0---0---
+|-------------------0-----0-----0-0-0-0-7s8s7-5---5---
+|---------2-2-------1-----1-----2-3-2-1---------6-----
+|-2-2-2---4p2-------------2-----2-5-4-2---------------
+|-2-4---------5-2---------2-----4-5-4-2---------------
+|-----------------5---0---0-2-2-2-3-2-0---------------
+
+E       F#/E
+So long Rayne, Louisiana
+G/E       F#/E  E
+Never see me no more
+
+Repeat 3 more times
+
+F#/E                G#/E
+How many days can I ....
+          A/E
+ From the levee...
+F#/E                          G#/E
+Wake up in the morning in the ....
+         A/E                 D7
+Only the leavin' is left in gone
+
+I like to solo using the following scale.
+The notes in parentheses are usually hit by bending the string.
+The scale can be played in other octaves as well.
+
+|------------------------7-9-10--
+|------8-(9)-10-(11)-------------
+|-7-9----------------------------
+|--------------------------------
+|--------------------------------
+|--------------------------------
+
+This transcription is all my own work and interpretation - Trey
+
+-----
+
+Rayne, Lousiana
+(Bruce Robison, Marty Muse)
+
+ So long Rayne, Louisiana
+ Never see me no more
+ Hundred dollars thirty days in the slammer
+ I'd rather hit the road
+ I found I'm goin' crazy
+ Every day here the same
+ I'm bound to go to the city
+ Where nobody knows my name
+ How many days can I walk this road
+ From the levee to the farm
+ Wake up in the morning in the same old place
+ Only the leavin' is left in gone
+
+ So long New Orleans
+ Nothing but a waste of time
+ Hot nights down in the quarter
+ Took me my last dime
+ Well I count the waves in the water
+ Just like an old drunk bum
+ Deep down Mississippi river
+ Where's it all come from
+ How many days can you spend in the shadows
+ Hidin' from the sun
+ Waitin' for the night to lay your money
+ On a point that never comes
+
+ So long New York City
+ My dreams are dead and gone
+ No heart no damn pity
+ I believe I'm headed home
+ One time before I'm leavin'
+ I'm gonna roll them dice
+ If it comes in I got no worries
+ If I lose I lose my life
+ How many days can I spend in the middle
+ Of the black concrete and cars
+ Been so cruel and care so little
+ Bout a man that's come so far
+
+

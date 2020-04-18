@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:08Z</date>
+		<key>actualSize</key>
+		<integer>3780</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:15Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:41:59Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>229F47EC-D4FA-4CDB-99C5-A01693C3621A</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:45:10Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/03_times/when_the_ship_comes_in.htm</string>
+		<key>originalSize</key>
+		<integer>3780</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>F19DD838-A88D-4089-A90C-04D9871BF8ED</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

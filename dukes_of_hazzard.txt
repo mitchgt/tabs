@@ -1,0 +1,79 @@
+Here it is, as requested:  the theme song for the Dukes of Hazzard.
+Playing tips and some other junk are at the end.
+
+                THE DUKES OF HAZZARD (THEME SONG)
+                       BY WAYLON JENNINGS
+
+[key of F; capo 3rd fret]
+or substitute these cords with no capo: D ---> F        G ---> Bb      A ---> C.
+
+INTRO:    A   A   D   D
+
+[VERSE 1]
+                  D         D
+Just two good ole boys,
+                 G        G
+Never meaning no harm.
+      D                          A
+Beats all you never saw, been in trouble with the law
+          D                 D
+Since the day they was born.
+
+[VERSE 2]
+                  D      D
+Straightenin' the curves,
+               G         G
+Flattenin' the hills.
+D                          A                         D      D
+Someday the mountain might get 'em but the law never will.
+
+[BRIDGE]
+             A      A                           A       A
+Makin' their wayyyyyy,   the only way they know how.
+      A                        A                       D      D
+Well, that's just a little bit more than the law will allow.
+
+[VERSE 3]
+                  D        D
+Just two good ole boys,
+                        G        G
+Wouldn't change if they could.
+D                        A                    D       D [stop]
+Fightin' the system like two modern day Robin Hoods. [Yee-haw]
+
+
+Great song, eh?  Here are some playing tips:
+1. The song is actually in the key of F, but I have written it out in the key
+of D.  If you want to play along with your tv set, either place a capo on the
+third fret, or substitute these chords:
+D ---> F        G ---> Bb      A ---> C.
+2. Each time the chord letter is shown represents one measure (four beats)
+with one exception: there is an extra half-measure (two beats) of D between
+verse 1 and 2.  It always trips me up, so I omit it.
+3. The bridge sounds really good with an A7, instead of A.
+4. I like to play this with an alternating-bass pattern to project both the
+rhythm and lead parts while playing solo.  If you are not familiar with this
+style, this is basically how it goes:
+    i.  Pick the bass note for the chord (ie. the lowest note).
+    ii. Strum or double strum the full chord.
+    iii.Pick the alternate-bass note (see below).
+    iv. Strum or double strum the full chord.
+Put the emphasis on the treble (higher) strings when strumming the full
+chords. You can jazz it up a little by adding bass runs between chord changes.
+5. The alternate-bass notes are basically melody notes, so they can vary with
+the song, but here is a list of bass notes and common alternate-bass notes for
+the seven major chords.  The numbers in brackets are "string/fret."
+
+Chord:      A        B        C        D        E        F        G
+Bass note:  A [5/O]  B [5/2]  C [5/3]  D [4/O]  E [6/O]  F [6/1]  G [6/3]
+Alternate:  G [6/O]  F#[6/2]  G [6/3]  A [5/O]  B [5/2]  C [5/3]  D [4/O]
+
+Here is the tab for D, G, and A in alternating-bass.
+ [D]                [G]                [A]
+   .  V ^  .  V ^     .  V ^  .  V ^     .  V ^  .  V ^  
+|-----2-2-----2-2--|-----3-3-----3-3--|-----O-O-----0-0--|
+|-----3-3-----3-3--|-----O-O-----O-O--|-----2-2-----2-2--|
+|-----2-2-----2-2--|-----O-O-----O-O--|-----2-2-----2-2--|
+|--O---------------|----------O-------|-----2-2-----2-2--|
+|----------O-------|------------------|--O---------------|
+|------------------|--3---------------|----------0-------| 

@@ -1,0 +1,238 @@
+Date: Tue, 12 Jan 93 11:09:11 -0600
+From: Scott A. Yanoff 
+
+It seems not too long ago many people were posting their rendition of this
+song and such, so I decided to take every version of this song that was
+posted and turn it into what I thought was a decent version, based on sound
+and ease of play.  
+
+The Beatles
+
+In My Life
+----------
+
+Main Riff: E----5-----0-4-
+           B--2---2-3-----
+           G--2-----------
+
+There are places ...
+          A             F#m
+
+All my life ...
+       Bm Dm       A
+
+Some for ever ...
+         A            F#m
+
+Some have gone, ...
+          Bm Dm     A
+
+All these places ...
+          F#m               Bm
+
+With lovers and ...
+     G                     A
+
+Some are dead and ...
+         F#m               Bm
+
+In my life, I've ...
+   D  Dm         A
+
+{Repeat main riff, and continue as verse above}
+
+At the end, there is the first riff above, then a higher Dm (played as a bar
+chord at the 5th fret) then the riff below:
+
+                             E7       A
+Last Riff: E----5-----0-4----4--2--4--5
+           B--2---2-3--------3--------5
+           G--2--------------4--------6
+           D--------------------------7
+
+CHORD FORMATIONS:
+A   x 0 2 2 2 0
+F#m 2 4 4 2 2 2  (Bar across 2nd fret)
+Bm  x x 4 4 3 2
+Dm  x x 0 2 3 1
+G   3 2 0 0 3 3
+
+
+
+Date: Thu, 6 Jul 1995 19:24:42 -0400
+From: bd588@freenet.carleton.ca (Chris da Costa)
+Subject: In My Life by The Beatles
+
+Here's my interpretation of the intro and finale to "In My Life" by The 
+Beatles. I encourage any corrections to be sent to bd588@freenet.carleton.ca.
+The chords are in a file which is already available. Enjoy!
+
+
+e -|-------5-------------------4---------5-------------------4-|
+B -|--2---------2----3----5---------2---------2----3----5------|
+G -|-----------------------------------------------------------|
+D -|-----------------------------------------------------------|
+A -|-----------------------------------------------------------|
+E -|-----------------------------------------------------------|            
+   
+    Then the ending:
+
+e -|--------5------------------4--------4----2----4---5--------|
+B -|---2--------2----3----5------------------------------------|
+G -|-----------------------------------------------------------|
+D -|-----------------------------------------------------------|
+A -|-----------------------------------------------------------|
+E -|-----------------------------------------------------------|
+
+
+Hope you like it!
+
+-Chris
+
+--
+-Chris da Costa                                          .----. 
+** bd588@freenet.carleton.ca **                          | σσ | 
+** am548@detroit.freenet.org **                  .---.---|    |---.---. 
+                           My Useful Finger ==>  |___|___|____|___|___|
+
+
+Date: Sun, 15 Sep 96 23:31:15 IDT
+From: benmena@brachot.jct.ac.il (netanel benmena)
+Subject: InMyLife_TheBeatles_TAB_ONLY!!
+
+
+This tab mades to play on Amajor like on the original album, not like chorded b by y
+Jim Campobello#P,E2q(sorry(one step up)Xx=gNeq).
+                               In My Life
+
+                             By The Beatles
+
+                       From The Rubber Sole Album      
+
+                    Tab By Roi Ben Menachem, Israel
+
+Start
+
+e---5-------4-0-0-0------\
+B-2---2-3-5---0-0-0------|
+G-------------1-1-1------|
+D-------------2-2-2------|
+A-0---0-------2-2-2------|
+E-----------0-0-0-0------/
+
+End
+
+e---5-------4-4-2-4-5---\
+B-2---2-3-5-------------|
+G-----------------------|
+D-----------------------|
+A-0---0-------------0---|
+E-----------0-0-0-0-----/
+
+Jvqz85G.
+
+
+
+Date: Mon, 10 Feb 1997 21:18:06 -0500
+From: "Laurence R. Watson" Subject: TAB: IN MY LIFE
+
+FROM: Stuart Watson
+                
+                
+                This is the famous Beatles song In My Life.
+                It appeared on their 1965 album Rubber Soul.
+                John sang this one.  I have also tabbed out
+                the electric piano solo by SIR:George Martin.
+
+
+
+
+    (A)          (E)
+|-----5-------------|--------|
+|----------------9--|-----/--|
+|--6-----6h7--9-----|--.-/---|
+|-------------------|---/-.--|
+|-------------------|--/-----|
+|-------------------|--------|
+
+
+
+
+
+             (A)     (E7) (F#m)  (A7)      (D) (Dm)    (A)
+    There are places ...
+
+
+
+                 (E7)    (F#m) (A7)        (D)(Dm)  (A)
+    Some forever, not for ...
+
+
+
+          (F#m)            (Bm)          (G)                   (A)
+ All these places had their ...
+
+
+         (F#m)             (B)         (D)          (A)
+ Some are dead and ...
+
+
+(OPENING RIFF)
+
+
+ELECTRIC PIANO SOLO:
+
+
+|------------9-----12p10--12----------------------9p7--9---10--12--15--|
+|-----10h12----10-------------12-----12---7h9/10-----------------------|
+|---------------------------------9------------------------------------|
+|----------------------------------------------------------------------|
+|--0-------------------------------------------------------------------|
+|----------------------------------------------------------------------|
+
+
+|-14-12-14----14----14----13p12--13-------12-10-12-9-12----12----12p10--12-9-----|
+|----------15----14----12-----------15-12---------------12----10-------------12--|
+|--------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------|
+
+
+(FIRST LINE AGAIN)
+
+
+|--12--9h10h12--9-------------------------------|
+|-----------------10---9---10p9p7---------------|
+|--------------------9-------------9p7p6--------|
+|------------------------------------------9p7--|
+|-----------------------------------------------|
+|-----------------------------------------------|
+
+
+
+        The rest of the song is the same except
+        for this little bit at the end:
+
+
+  (E7)      (A)
+|------------5--|
+|--9--7-9----5--|
+|--7---------6--|
+|--9---------7--|
+|--7------------|
+|---------------|
+
+
+CHORDS USED:
+
+A- 566755
+E7- 020100
+F#m- 244222
+A7- 575655
+D- X57775
+Dm- X57765
+Bm- X24432
+G- 355433
+B- X24442
+

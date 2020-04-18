@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:08Z</date>
+		<key>actualSize</key>
+		<integer>3749</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:15Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:41:59Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>AD5D1FB3-BA78-464A-9B88-19311A4B1CF2</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:45:41Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/bob dylan/04_anotherside/spanish_harlem.htm</string>
+		<key>originalSize</key>
+		<integer>3749</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>2525BBCE-BB26-47E6-867E-ACE9C44A046C</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

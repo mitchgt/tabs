@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:12Z</date>
+		<key>actualSize</key>
+		<integer>3002</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:15Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:14Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>E7BC2AAD-0D29-4C2A-9A66-76F8AC5E8AE1</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:41:39Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/del amitri/sleep_instead_of_teardrops.htm</string>
+		<key>originalSize</key>
+		<integer>3002</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6F14B6AA-8C20-4221-99A1-73D1D24247DB</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

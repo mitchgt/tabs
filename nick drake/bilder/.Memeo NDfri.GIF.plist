@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>accessDate</key>
+		<date>2008-06-09T01:45:13Z</date>
+		<key>actualSize</key>
+		<integer>4169</integer>
+		<key>attributeModDate</key>
+		<date>2007-02-24T19:43:12Z</date>
+		<key>createDate</key>
+		<date>1904-01-01T00:00:00Z</date>
+		<key>creationDate</key>
+		<date>2008-06-10T02:42:17Z</date>
+		<key>encrypted</key>
+		<false/>
+		<key>id</key>
+		<string>E9F15041-8D73-4C46-82F8-F0AB5F228A33</string>
+		<key>lastModifiedDate</key>
+		<date>2006-10-05T17:44:52Z</date>
+		<key>originalPath</key>
+		<string>/Users/mike/Music/tabs/nick drake/bilder/NDfri.GIF</string>
+		<key>originalSize</key>
+		<integer>4169</integer>
+		<key>versionMetadataList</key>
+		<array>
+			<dict>
+				<key>POSIXPermissions</key>
+				<integer>-32348</integer>
+				<key>creatorCode</key>
+				<integer>0</integer>
+				<key>fileType</key>
+				<integer>0</integer>
+				<key>id</key>
+				<string>6B14CA32-6DB1-4F00-9FEF-3C764C5F2F02</string>
+				<key>macAttributes</key>
+				<integer>0</integer>
+				<key>ownerGID</key>
+				<integer>502</integer>
+				<key>ownerUID</key>
+				<integer>502</integer>
+			</dict>
+		</array>
+		<key>versionType</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

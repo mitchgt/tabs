@@ -1,0 +1,208 @@
+::::::::::::::::::::::
+Should've Been In Love
+::::::::::::::::::::::
+
+by J. Tweedy
+As played by Wilco from the album "A.M." (1995)
+
+Transcribed by Dave Shapiro (dshapir@argo.ecte.uswc.uswest.com)
+
+
+This piece features an acoustic guitar tuned EADGBD, which is the same
+tuning as "Anodyne". It also has an electric guitar (standard tuning) and
+a dobro tuned open G (DGDGBD).
+
+The acoustic guitar's chords are these:
+
+-0-----0-----0--------0-----------0--------------0-----------0---
+-0-----3-----0--------0-----------0--------------0-------1---3---
+-0-----2-----0--------0-----------0--------------2-------0---2---
+-0-----0-----2--------2-----------4--------------2-------2---0---
+-2-----------2--------3-----------3--------------0-------3---0---
+-3-----2-----0---------------------------------------------------
+
+ G    D/F#  Em7    CM7add9   C9sus+4addM7   Asus2add11   C  D5/A
+
+The G and Em7 chords have a B/D choice, in that Jeff sometimes plays
+the open B string, and sometimes he plays third fret B string. Sometimes
+he alternates between the two in the same measure. Whatever.
+
+
+The electric guitar and dobro have three sections, each labeled as a
+Rhythm figure below, with their accompanying acoustic guitar chords:
+
+
+Rhythm figure 1
+
+   G        D/F#  Em7
+
+E|-----------------------------------------|
+ |-----------------------------------------|
+G|---/4--0------------/4--0-----0----------|
+u|----------4----------------4-------------|
+i|-----------------------------------------|
+t|-----------------------------------------|
+ |                                         |
+D|-----------------------------------------|
+o|-----------------------------------------|
+b|-----------------------------------------|
+r|-4/5------4---4\2---------------2/4--0---|
+o|-----------------------------------------|
+ |-----------------------------------------|
+
+
+Rhythm figure 2
+
+  CM7add9 CM7sus+4add9                CM7add9 C9sus+4addM7
+
+|--------------------------------------------------------------------
+|-1^0---------------------------------1^0----------------------------
+|-----2---0-------0--0----0-------0-------2---0-----0-0------0---0---
+|------------0^2--------2---0^2-----------------0^2-----0^2----2-----
+|--------------------------------------------------------------------
+|--------------------------------------------------------------------
+|
+|---------0-----------------------------------0----------------------
+|--------------------------------------------------------------------
+|--------------2-----0--2/4\2-----0---2/4---------2-----0-2--0-------
+|-4/5----------------------------------------------------------2-0---
+|--------------------------------------------------------------------
+|--------------------------------------------------------------------
+
+
+Rhythm figure 3
+
+  G            Em7               G            Em7
+
+|--------------0------0-----------------------0------0----------|
+|-----3----3------3-----3------------3----3------3-----3--------|
+|-2/4----4---4------4-----4\2-0--2/4----4---4------4-----4\2-0--|
+|---------------------------------------------------------------|
+|---------------------------------------------------------------|
+|---------------------------------------------------------------|
+|                                                               |
+|--------0---0--------------------------0---0----------0---0----|
+|---------------------------------------------------------------|
+|-----------------------0---0-------------0--------------0---0--|
+|-4--------4---2----------0---0--4/5----------2-----------------|
+|---------------------------------------------------------------|
+|---------------------------------------------------------------|
+
+
+
+The song, then, goes like this:
+
+
+Intro
+
+| Rhythm figure 1 four times | Rhythm figure 2 once | Rhythm figure 3 |
+
+
+Verse [played with Rhythm figure 3]
+
+G                        Em7
+You've been dealing with all of these feelings
+
+          G                  Em7
+Like they got you believing    they have no meaning,
+
+        G    Em7   G    Em7
+But they do
+
+
+Pre-chorus [played with Rhythm figure 2]
+
+     CM7add9                    CM7sus+4add9
+Your life's been stinking, your heart's been sinking,
+
+          CM7add9               CM7sus+4add9
+And you're  too busy thinking to stop
+
+                     G      Em7    G   Em7
+You blink and you're blue
+
+
+Chorus [played with something similar to Rhythm figure 2]
+
+Asus4add9         C
+Should've been in love
+
+Asus4add9         C     D
+Should've been in love
+
+Asus4add9         C     C
+Should've been in love
+
+
+Post-chorus 1
+
+| Play Rhythm figure 3 once |
+
+
+Verse [played with Rhythm figure 3]
+
+     G                        Em7
+Your mind's been racing, your heart's been chasing,
+
+        G                     Em7
+And you might as well face it,   time's wasting,
+
+     G      Em7   G   Em7
+It's true
+
+
+Pre-chorus [played with Rhythm figure 2]
+
+     CM7add9                    CM7sus+4add9
+Your life's been stinking, your heart's been shrinking,
+
+          CM7add9               CM7sus+4add9
+And you're too busy thinking to stop
+
+                     G     Em7   G   Em7
+You blink and you're blue
+
+
+Play Chorus
+
+
+Post-chorus 2
+
+| Play Rhythm figure 1 four times |
+
+
+Verse
+
+  G                  Em7
+I know how it goes, 
+
+  G             Em7                  G   Em7  G  Em7
+So I just had to let you know I know
+
+
+Play Chorus
+
+   CM7add9                  CM7sus+4add9
+My life's been stinking, my heart's been shrinking,
+
+        CM7add9              CM7sus+4add9
+And I'm too busy thinking to stop
+
+                    G
+I blink and you're gone
+
+
+Chorus
+
+
+Post-chorus 3
+
+| G | Em7 | G | Em7 | fade
+
+
+
+Cheers,
+
+Dave
+dshapir@argo.ecte.uswc.uswest.com
+

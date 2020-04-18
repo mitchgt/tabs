@@ -1,0 +1,12 @@
+@charset "utf-8";
+.f_textusg {
+	font-family: "Palatino Linotype", "Athena", "Arial Unicode MS", "Georgia Greek", "MgAvantG UC Pol", "Cardo", "Code2000", "MgOldTimes UC Pol", "Silver Humana", "TITUS Cyberbit Basic", "Vusillus Old Face";
+	font-size : 14pt;
+	line-height : 18pt;
+	color: #000000;
+}
+
+		.f_textusg a:link { text-decoration: underline; color:#000099}
+		.f_textusg a:visited { text-decoration: underline; color:#000099}
+		.f_textusg a:active { text-decoration: underline; color:#990000}
+		.f_textusg a:hover { text-decoration: underline; color: #990000}
