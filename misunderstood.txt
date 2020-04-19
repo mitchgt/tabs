@@ -1,196 +1,81 @@
--------------------------------------------------------------------------------
-                             MISUNDERSTOOD (ACOUSTIC) - Jeff Tweedy
--------------------------------------------------------------------------------
-Tabbed by: jvwald
-
-This tab is based on this YouTube video:
+Misunderstood (acoustic)
 https://www.youtube.com/watch?v=j5eMWFE8XRU
+Open G (DGDGBD)
 
-Tuning: Open G (DGDGBD)
+d|--0-0-0-0-0-0-0-0-0---0---0-0-0-0-0-0-0-0--|  
+B|--0h3-3-5-1-1-1-1-1---0---0-0-0-1-1-1-1-1--| 
+G|--0-0-0-0-0-0-0-0-0---2/4-4-4-5-0-0-0-0-0--|
+D|--0-0-0-0-2-2-2-2-2---0---0-0-0-2-2-2-2-2--|
+G|--0-0-0-0-0-0-0-0-0---0---0-0-0-0-0-0-0-0--|
+D|-------------------------------------------|
 
-d|--0-0-0-0-0-0-0-0-0---0---0-0-0-0-0-0-0-0--|  \
-B|--0h3-3-5-1-1-1-1-1---0---0-0-0-1-1-1-1-1--|  |
-G|--0-0-0-0-0-0-0-0-0---2/4-4-4-5-0-0-0-0-0--|  |
-D|--0-0-0-0-2-2-2-2-2---0---0-0-0-2-2-2-2-2--|  |
-G|--0-0-0-0-0-0-0-0-0---0---0-0-0-0-0-0-0-0--|  |
-D|-------------------------------------------|  |
-                                                | fig. 1
+d|--0---0-0-0-0-0-0-0-0---0-0-0-0-0-0-0-0-0--|
+B|--0---0-0-0-1-1-1-1-1---1-1-1-1-0-0-0-0-0--|
+G|--2/4-4-4-2-0-0-0-0-0---0-0-0-0-0-0-0-0-0--|
+D|--0---0-0-0-2-2-2-2-2---2-2-2-2-0-0-0-0-0--|
+G|--0---0-0-0-0-0-0-0-0---0-0-0-0-0-0-0-0-0--|
+D|-------------------------------------------|
 
-d|--0---0-0-0-0-0-0-0-0---0-0-0-0-0-0-0-0-0--|  |
-B|--0---0-0-0-1-1-1-1-1---1-1-1-1-0-0-0-0-0--|  |
-G|--2/4-4-4-2-0-0-0-0-0---0-0-0-0-0-0-0-0-0--|  |
-D|--0---0-0-0-2-2-2-2-2---2-2-2-2-0-0-0-0-0--|  |
-G|--0---0-0-0-0-0-0-0-0---0-0-0-0-0-0-0-0-0--|  |
-D|-------------------------------------------|  /
-
-intro (fig. 1)
-
-(fig. 1 plays over each verse)
-
-You're back in your old neighborhood
-
-Cigarettes taste so good
-
+When you're back in your old neighborhood
+The Cigarettes taste so good
 But you're so misunderstood
+You're so misunderstood
 
-So misunderstood
-
- 
-
-There's somethin' there that you can't find
-
-Honest when you're tellin' a lie
-
-You're hurt but you don't know why?
-
-You love her but you don't know why?
-
- 
+There's something there that you can't find
+You look honest when you're telling a lie
+You hurt her but you don't know why
+You love her but you don't know why
 
 Short on long term goals
-
-There's a party there that we oughta go to
-
-Do you still love rock and roll?
-
-Do you still love rock and roll?
-
- 
+There's a party there that we ought to go to
+If you still love rock and roll
+If you still love rock and roll
 
 It's only a quarter to three
-
-Reflecting off your C.D.
-
-You're lookin' at a picture of me
-
-You're starin' at a picture of me
-
- 
+Reflecting off of your CD
+You're looking at a picture of me
+You're staring at a picture of me
 
 Take the guitar player for a ride
-
-'Cause he ain't never been satisfied
-
+Cause he ain't never been satisfied
 He thinks he owes some kind of debt
-
 Be years before he gets over it
 
- 
-
-(* Here he just plays a bunch of nonsense notes for effect. Hard to explain and
-
-pointless to try to tab out. Maybe just watch the video to see what I mean.)
-
- 
-
 There's a fortune inside your head
-
 All you touch turns to lead
-
 You think you might just crawl back in bed
-
-The fortune inside your head
-
- 
+With the fortune inside your head
 
 You know you're just a mama's boy
-
 Positively unemployed
-
 So misunderstood
-
-So misunderstood
-
- 
+You're so misunderstood
 
 d|--0-0-0--|
-
 B|--3-3-3--|
-
 G|--0-0-4--| x8
-
 D|--0-0-0--|
-
 G|--0-0-0--|
-
 D|---------|
 
- 
-
-I know you gotta God shaped hole
-
-Bleedin' out your out your heart full of soul
-
-So misunderstood, so misunderstood
-
-So misunderstood, so misunderstood
-
- 
+I know you've got a God-shaped hole
+Bleeding out your heart full of soul
+You're so misunderstood
+You're so misunderstood
+You're so misunderstood
+You're so misunderstood
 
 d|--0--|
-
 B|--3--|
-
 G|--0--| (repeat to the end)
-
 D|--0--|
-
 G|--0--|
-
 D|-----|
-
  
-
-I'd like to thank you all for nothin'
-
-I'd like to thank you all for nothin' at all
-
-I'd like to thank you all for nothin'
-
- 
-
-Nothin', nothin', nothin', nothin'
-
-Nothin' at all
-
-Nothin', nothin', nothin'
-
-Nothin' at all
-
- 
-
- 
-
-************************************
-
- 
-
-| /   slide up
-
-| \   slide down
-
-| h   hammer-on
-
-| p   pull-off
-
-| ~   vibrato
-
-| +   harmonic
-
-| x   Mute note
-
-| b   Bend
-
-| pb  Pre-bend
-
-| br  Bend release
-
-| pbr Pre-bend release
-
-| brb Bend release bend
-
- 
-
-************************************
-
-
+I'd like to thank you all for nothing
+I'd like to thank you all for nothing at all
+I'd like to thank you all for nothing
+Nothing, nothing, nothing, nothing
+Nothing at all
+Nothing, nothing, nothing
+Nothing at all
