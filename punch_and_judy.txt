@@ -1,0 +1,71 @@
+standard D tuning DGCFAD
+
+G   320003  Emmaj7 xx1000
+Bm  x24432  C/B    x2x010
+A   x02220  A7sus4 x02040
+Em  022000  A7     x02020
+C   x32010  C*     x35x5x
+Em* xx2000
+
+G                        Bm
+a wallflower punch talks to judy
+     A              Em   /F# /G
+in a crowded corner where        
+A           C
+anybody can listen in
+G                               Bm
+but they don't read page to page or speak easy
+                  A          Em   /F# /G
+now they're gonna go say the words
+A            C
+in the wrong order again
+
+D----------------------------------------------
+A---------------------------0--0--0---0--------
+F---------------------------0--0--0---0--------
+C------------0--3---4---5---5--4--2---0--------
+G------2--3------------------------------2--0--
+D--3-------------------------------------------
+
+G                     Bm
+they walk in a circle through all the sidewalk scenes 
+     A                   Em       /F# /G
+they used to be apart of one time
+A                  C
+now everybody just stares and whispers
+G                     Bm
+driving around up and down division street
+  A               Em   /F# /G
+i used to like it here
+A               C
+it just bums me out to remember
+
+Em*   Emmaj7 C          C/B    A7sus4  A7  C*
+can't you    ever treat anyone nice?
+  Em*   Emmaj7 C              C/B          A7sus4  A7  C*
+i think i'm    gonna make the same mistake twice
+
+G                      Bm
+they draw the curtain, wait for a call
+       A             Em  /F# /G  
+pretty lucky if they get 
+A             C
+any kind of response at all
+
+[solo over verse chords]
+   G              Bm                  A        Em       A         C
+D-----0--2-----------0--2---------------------------------------------
+A--3--------3--0--3--------3------------------------------------------
+F-----------------------------4\2--0--2--0--2-------------------------
+C----------------------------------------------2--0h2-0------------2--
+G--------------------------------------------------------4--4h5-4-----
+D---------------------------------------------------------------------
+
+Em*   Emmaj7 C          C/B    A7sus4  A7  C*
+can't you    ever treat anyone nice?
+  Em*   Emmaj7 C              C/B          A7sus4  A7  
+i think i'm    gonna make the same mistake twice
+C*                          G
+gonna make the same mistake twice
+
+Bm  A  Em /F# /G  A  C
