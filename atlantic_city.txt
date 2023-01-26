@@ -1,11 +1,13 @@
-Bruce Springsteen
+Atlantic City
+Capo II
 
-Atlantic City   (from the album "Nebraska")
--------------
+Em    x 2 3 0 3 3
+G     3 2 0 0 3 3
+C     x 3 2 0 3 3
+D     x x 0 2 3 2
 
 Em G C G (7x)
 Em G D
-
 
 Well, they blew up the chicken man in Philly last night
 Now, they blew up his house, too  
@@ -61,14 +63,4 @@ So, honey, last night I met this guy and I'm gonna
 
 Well, I guess everything dies, baby, that's a fact...
 
-
-Chord Formations:               (Capo on 3rd fret!)
------------------
- (Note: the names below are not the actual chord names, just their formation
-  on the third fret)
-
-Em    x 5 5 3 6 6
-G     6 5 3 3 6 6
-C     x 6 5 3 6 6
-D     x x 3 5 6 5
 
